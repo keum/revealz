@@ -28,7 +28,6 @@ This is an inline link to [CNN](http://cnn.com/ "Link to CNN").
 
 <h2>Sub Slide 1--2</h2>
 
-
 <!------------------------------------------------------------>
 --SLIDE--
 <!-- Topic: zzz -->
