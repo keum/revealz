@@ -7,7 +7,7 @@
 --SUBSLIDE--
 
 <h2>Sub Slide 0--1</h2>
-<img src="images/intro.png" style="max-height: 450px;">
+<img src="images/CSO_diagram.jpg" style="max-height: 450px;">
 
 --SUBSLIDE--
 
