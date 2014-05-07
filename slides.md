@@ -2,12 +2,12 @@
 <!-- Topic: xxx -->
 
 <h1>Slide 0</h1>
-![Markdown Image](images/CSO_diagram.jpg)
+![Markdown Image](images/about.png)
 
 --SUBSLIDE--
 
 <h2>Sub Slide 0--1</h2>
-<img src="images/CSO_diagram.jpg" style="max-height: 450px;">
+<img src="images/cso.png" style="max-height: 450px;">
 
 --SUBSLIDE--
 
