@@ -24,8 +24,8 @@ body {
   background-image: url("../../images/bg-stars.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background: #fdf6e3;
-  background-color: #fdf6e3; }
+/*  background: #fdf6e3;
+  background-color: #fdf6e3; */}
 
 .reveal {
   font-family: "Lato", sans-serif;
