@@ -3,7 +3,7 @@
 
 <h1>Slide 0</h1>
 ![Markdown Image](images/github_logo.png)
-
+ <section data-background="images/bg-stars.jpg"></section>
 --SUBSLIDE--
 
 <h2>Sub Slide 0--1</h2>
