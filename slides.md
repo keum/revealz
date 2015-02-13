@@ -2,7 +2,7 @@
 <!-- Topic: xxx -->
 
 <h1>Slide 0</h1>
-![Markdown Image](images/cso.png)
+![Markdown Image](images/github_logo.png)
 
 --SUBSLIDE--
 
